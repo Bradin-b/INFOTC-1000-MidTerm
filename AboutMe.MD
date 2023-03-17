@@ -4,7 +4,7 @@
   Back To Home
 </a>
   
-I'm 23 and a freshman at [Mizzou](https://missouri.edu/). Although I have taken other classes from other colleges so I am more so near a Senior level
+I'm 23 and a _freshman_ at [Mizzou](https://missouri.edu/) __technically__. Although I have taken other classes from other colleges so I am more so near a Senior level
 
 My favorite food is teriyaki chicken, from Kitaros.
 
