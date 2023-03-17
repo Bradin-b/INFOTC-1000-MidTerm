@@ -20,3 +20,11 @@ Game List
 Diablo 4 beta is today!
 
 ![image](https://user-images.githubusercontent.com/111961360/225826550-a23688c2-ea79-4853-9bc0-c8fcb6735be7.png)
+
+Have you played League of Legends?
+<form>
+    <input type="radio" id="yes" name="tried?" value="Yes">
+    <label for="yes">Yes</label><br>
+    <input type="radio" id="no" name="tried?" value="no">
+    <label for="no">No</label><br>
+</form>
